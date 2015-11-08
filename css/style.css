@@ -1,0 +1,7 @@
+.container-fluid {
+    background-color: cornflowerblue;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: aliceblue;
+}
