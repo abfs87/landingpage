@@ -1,0 +1,27 @@
+[Home]
+
+Jumbotron:
+	Selamat Datang
+
+h3:
+	Website resmi Senja Merona Travel
+
+p:
+	Pelayanan perjalanan berkualitas di Kota Probolinggo
+	dengan jangkauan destinasi menarik, momen yang berkesan,
+	perjalanan yang aman dan kenyamanan dalam perjalanan.
+	
+	a:
+		Info Lebih Lanjut.
+.info:
+	ul:
+		li:
+			label:
+					1.Promosi Pra-Tahun Baru 2016 M
+					2.Biaya masuk Pariwisata Gunung Bromo
+					3.Armada Baru untuk Rute Surabaya - G.Ijen
+					4.Testimoni Klien tujuan Pantai Plengkung, Banyuwangi
+	.pagination:
+		a:
+			1..3
+		
